@@ -49,4 +49,4 @@ Menjalankan program:
 ros2 run abdi_pkg abdinode
 ```
 # Demo
-Video demonstrasi dapat dilihat di: https://youtu.be/0ICtoX1--R0
+https://youtu.be/b6Jc3NDo4qI?si=N6J4IanAKqkILGen
